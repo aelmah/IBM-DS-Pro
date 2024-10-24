@@ -22,8 +22,6 @@ Feel free to explore the projects and insights I've gained during this learning 
    
 [Program Structure](#Program-Structure)
 
-[Key Features of the Program](#Key-features-of-the-program)
-
 [Certificate and Recognition](#Certificate-and-recognition)
 
 [Career opportunities](#Career-Opportunities)
