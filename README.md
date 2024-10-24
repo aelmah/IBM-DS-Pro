@@ -27,30 +27,46 @@ Feel free to explore the projects and insights I've gained during this learning 
 ## Program Overview 
 The program is composed of 12 course series starting with basic concepts to more advanced skills, focusing on the essential tools and techniques used in the industry. The certification is self-paced and offered through Coursera, making it accessible to individuals worldwide who are interedted in a career in data science. 
 
-**This are some détails that you may need to know also**
+<span style="color: #3498db; font-size: 1.5em;"><strong>1. Key Features of the Program</strong></span>
 
-**Title:** Data Science Professional Certificate
 
-**Issuer:** IBM
+**Hands-On Experience**
+   The program is highly practical, with numerous labs, assignments, and case studies allowing learners to apply what they learn to real-world scenarios.
+   
+**Real-World Case Studies:**
+   Courses include case studies from industries such as healthcare, finance, and telecommunications, offering insights into how data science is used in different sectors.
+   
+**Self-Paced Learning**
+   Learners can take the courses at their own pace, making it flexible to fit into various schedules, with an average completion time of 4-6 months.
+   
+**No Prior Knowledge Required:**
+   This certificate is suitable for beginners as it starts with the basics of data science and builds up to more advanced concepts.
 
-**Platform:** Coursera
+ **2.  Learning Methodology**
+ 
+ The courses followed a dynamic and well-balanced structure, utilizing multiple educational tools to reinforce both theoretical and practical understanding. The key components included:
 
-**Language:** English (28 more)
+**Video Lectures:**
 
-**Duration:** Approximately 6 months to complete
+The courses primarily consisted of video lessons presented by expert instructors. These videos explained core concepts in an engaging and accessible manner, breaking down complex topics into digestible pieces.
+Each video was typically followed by a brief recap or summary to help reinforce key ideas before moving on to the next topic.
 
-**Number of Courses:** 12 course series
+**Reading Materials:**
 
-**Level:** Beginner to Intermediate
+Complementing the video lectures, each course provided detailed reading materials. These readings offered in-depth explanations and examples that reinforced the content from the videos.
+The reading sections often included links to additional resources, such as documentation, research papers, and case studies, to provide further insights into the subject.
 
-**Skills Acquired:**
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-- Data analysis and visualization 
-- Programming in Python and R
-- SQL for data manipulation
-- Data science methodologies
-- Machine learning basics
-</div>
+**Assignments and Quizzes:**
+
+Each course had multiple graded quizzes, usually after every module, testing your understanding of the material. These quizzes focused on core concepts and helped to reinforce the knowledge gained from the videos and readings.
+In addition to quizzes, there were more comprehensive assignments that required applying the concepts learned in practical scenarios. These assignments allowed for hands-on practice and were sometimes peer-reviewed, adding an element of collaborative learning.
+
+**Hands-On Labs (Tools, Plugins, and Applications):**
+
+One of the standout elements of the courses was the hands-on labs, which allowed students to directly engage with real-world tools and environments. These labs provided an interactive learning experience that went beyond theory.
+ 
+
+
 
 
 
@@ -60,38 +76,10 @@ The program is composed of 12 course series starting with basic concepts to more
 ## Learning Objectives 
 ![Learning Objectives](https://github.com/almasstudyjourney/IBM-Data-Science-Professional/blob/main/Learning%20Objectives.jpg)
 
-## Key Features of the Program
-This are some key features of the program : 
-   * **01. Hands-On Experience**
-   The program is highly practical, with numerous labs, assignments, and case studies allowing learners to apply what they learn to real-world scenarios.
-   * **Real-World Case Studies:**
-   Courses include case studies from industries such as healthcare, finance, and telecommunications, offering insights into how data science is used in different sectors.
-   * **Self-Paced Learning**
-   Learners can take the courses at their own pace, making it flexible to fit into various schedules, with an average completion time of 4-6 months.
-   * **No Prior Knowledge Required:**
-   This certificate is suitable for beginners as it starts with the basics of data science and builds up to more advanced concepts.
+
    
 ## Course Structure
-The courses followed a dynamic and well-balanced structure, utilizing multiple educational tools to reinforce both theoretical and practical understanding. The key components included:
 
-  * **Video Lectures:**
-
-The courses primarily consisted of video lessons presented by expert instructors. These videos explained core concepts in an engaging and accessible manner, breaking down complex topics into digestible pieces.
-Each video was typically followed by a brief recap or summary to help reinforce key ideas before moving on to the next topic.
-
-  * **Reading Materials:**
-
-Complementing the video lectures, each course provided detailed reading materials. These readings offered in-depth explanations and examples that reinforced the content from the videos.
-The reading sections often included links to additional resources, such as documentation, research papers, and case studies, to provide further insights into the subject.
-
-  * **Assignments and Quizzes:**
-
-Each course had multiple graded quizzes, usually after every module, testing your understanding of the material. These quizzes focused on core concepts and helped to reinforce the knowledge gained from the videos and readings.
-In addition to quizzes, there were more comprehensive assignments that required applying the concepts learned in practical scenarios. These assignments allowed for hands-on practice and were sometimes peer-reviewed, adding an element of collaborative learning.
-
-  * **Hands-On Labs (Tools, Plugins, and Applications):**
-
-One of the standout elements of the courses was the hands-on labs, which allowed students to directly engage with real-world tools and environments. These labs provided an interactive learning experience that went beyond theory.
 
 **Examples of hands-on labs included:**
 * **Jupyter Notebooks and JupyterLab:** Interactive coding environments used to experiment with data science techniques, run Python code, and visualize results in real-time.
