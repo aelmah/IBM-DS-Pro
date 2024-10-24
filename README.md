@@ -125,4 +125,25 @@ The case studies were particularly valuable as they were based on real-world dat
 | **Data Scientist Career Guide and Interview Prep** | 9 hours  | 4.7    | Build a foundation for job search, write resumes, create a portfolio, understand the interview process, and prepare for interviews.                                                                               | Data Science, Data Analysis, CRISP-DM, Methodology, Data Mining                                                     | [Link to course](https://www.coursera.org/learn/data-scientist-career-guide)                                        |
 
 
+## Tools & Libraries  (🛠️ & 📚)
+
+🛠️ |
+
+<img src="https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python" alt="Python">  <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=jupyter" alt="Jupyter">  <img src="https://img.shields.io/badge/Made%20with-GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+
+📚 |
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00457C?style=for-the-badge&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python)
+![Folium](https://img.shields.io/badge/Folium-5B8C5A?style=for-the-badge&logo=folium)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE4?style=for-the-badge&logo=sci-py)
+![Plotly](https://img.shields.io/badge/Plotly-3B4B92?style=for-the-badge&logo=plotly)
+
+
+
+
+
+
 
