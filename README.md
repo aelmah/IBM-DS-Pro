@@ -1,8 +1,8 @@
 # IBM-Data-Science-Professional
 
-**HOLAAAA!** Welcome to my repository for the IBM Data Science Professional Certificate! This repository showcases my journey through the comprehensive data science specialization, offered by IBM on Coursera. The program covers a wide range of topics, from the foundations of data science to more advanced concepts, including data analysis, machine learning, SQL, and data visualization.
+**HOLAAAA!** Welcome to my repository for the IBM Data Science Professional Certificate! This repository showcases my journey through the comprehensive data science specialization, offered by [IBM](https://www.ibm.com/fr-fr) on [Coursera](https://www.coursera.org/). The program covers a wide range of topics, from the foundations of data science to more advanced concepts, including data analysis, machine learning, SQL, and data visualization.
 
-Throughout the course, I completed various hands-on labs, quizzes, assignments, and case studies, allowing me to gain practical experience using tools such as Jupyter Notebooks, Python, and SQL. This repository contains my project files, code, and relevant documentation demonstrating the skills and knowledge acquired during the certification process.
+Throughout the course, I completed various hands-on labs, quizzes, assignments, and case studies, allowing me to gain practical experience using tools such as [Jupyter Notebooks](https://docs.jupyter.org/en/latest/), [Python](https://www.python.org/doc/), and SQL. This repository contains my project files, code, and relevant documentation demonstrating the skills and knowledge acquired during the certification process.
 
 Feel free to explore the projects and insights I've gained during this learning experience!
 
@@ -14,7 +14,7 @@ Feel free to explore the projects and insights I've gained during this learning 
 
 [Want to know if this Program is right for you?](#want-to-know-if-this-program-is-right-for-you?)
 
-[Core Learning Objectives](#Core-Learning-Objectives)
+[Learning Objectives](#Learning-Objectives)
 
    [1. Foundational Knowledge](#Foundational-Knowledge)
    
@@ -31,6 +31,11 @@ Feel free to explore the projects and insights I've gained during this learning 
 [Certificate and Recognition](#Certificate-and-recognition)
 
 [Career opportunities](#Career-Opportunities)
+
+## Program Overview 
+The program is composed of 12 course series starting with basic concepts to more advanced skills, focusing on the essential tools and techniques used in the industry. The certification is self-paced and offered through Coursera, making it accessible to individuals worldwide who are interedted in a career in data science. 
+
+## Learning Objectives 
 
 
 ## Course Structure
