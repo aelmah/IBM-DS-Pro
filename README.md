@@ -15,14 +15,6 @@ Feel free to explore the projects and insights I've gained during this learning 
 [Want to know if this Program is right for you?](#want-to-know-if-this-program-is-right-for-you?)
 
 [Learning Objectives](#Learning-Objectives)
-
-   [1. Foundational Knowledge](#Foundational-Knowledge)
-   
-   [2. Tools and Technologies](#Tools-and-Technologies)
-   
-   [3. Methodologies and Best Practices](#Methodologies-and-Best-Practices)
-   
-   [4. Practical Skills and Applications](#Practical-Skills-and-Applications)
    
 [Program Structure](#Program-Structure)
 
@@ -35,9 +27,50 @@ Feel free to explore the projects and insights I've gained during this learning 
 ## Program Overview 
 The program is composed of 12 course series starting with basic concepts to more advanced skills, focusing on the essential tools and techniques used in the industry. The certification is self-paced and offered through Coursera, making it accessible to individuals worldwide who are interedted in a career in data science. 
 
+**This are some détails that you may need to know also**
+
+**Title:** Data Science Professional Certificate
+
+**Issuer:** IBM
+
+**Platform:** Coursera
+
+**Language:** English (28 more)
+
+**Duration:** Approximately 6 months to complete
+
+**Number of Courses:** 12 course series
+
+**Level:** Beginner to Intermediate
+
+**Skills Acquired:**
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+- Data analysis and visualization
+- Programming in Python and R
+- SQL for data manipulation
+- Data science methodologies
+- Machine learning basics
+</div>
+
+
+
+---
+
+
 ## Learning Objectives 
+![Learning Objectives](https://github.com/almasstudyjourney/IBM-Data-Science-Professional/blob/main/Learning%20Objectives.jpg)
 
-
+## Key Features of the Program
+This are some key features of the program : 
+   * **01. Hands-On Experience**
+   The program is highly practical, with numerous labs, assignments, and case studies allowing learners to apply what they learn to real-world scenarios.
+   * **Real-World Case Studies:**
+   Courses include case studies from industries such as healthcare, finance, and telecommunications, offering insights into how data science is used in different sectors.
+   * **Self-Paced Learning**
+   Learners can take the courses at their own pace, making it flexible to fit into various schedules, with an average completion time of 4-6 months.
+   * **No Prior Knowledge Required:**
+   This certificate is suitable for beginners as it starts with the basics of data science and builds up to more advanced concepts.
+   
 ## Course Structure
 The courses followed a dynamic and well-balanced structure, utilizing multiple educational tools to reinforce both theoretical and practical understanding. The key components included:
 
