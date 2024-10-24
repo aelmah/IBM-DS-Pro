@@ -45,7 +45,7 @@ The program is composed of 12 course series starting with basic concepts to more
 
 **Skills Acquired:**
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-- Data analysis and visualization
+- Data analysis and visualization 
 - Programming in Python and R
 - SQL for data manipulation
 - Data science methodologies
