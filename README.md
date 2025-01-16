@@ -74,16 +74,33 @@ One of the standout elements of the courses was the hands-on labs, which allowed
 
 ## 3. Is this program right for you?
 ---
-Yessssssssssss! I highly recommend this program to :
-- Aspiring data scientists or analysts looking to build foundational and practical skills.
-- Professionals seeking to transition into a data science career.
-- Individuals interested in enhancing their knowledge of data science methodologies and tools.
+It is if you are a:
+- Beginner who wants to explore a career in data science.
+- Professional in other fields who wants to transition into data science.
+- Anyone looking to gain hands-on experience in Python, SQL, and data science tools.
 
+However, It may not be ideal if:
+- You are already an advanced data scientist looking for more specialized or niche topics.
+- You are seeking highly advanced techniques and algorithms beyond an introductory level.
 
+### What you need to know before starting
+- Basic understanding of *programming concepts*.
+- Familiarity with *statistics* and *mathematics*.
 
 
 
 ---
+### Upon Completion
+Upon completion of the specialization, you will receive a certificate that validates your skills and knowledge in data science.
+
+- **Certificate Title:**  Data Science Professional
+- **Issuer:** IBM
+- **Platform:** Coursera
+- **Language**: English (and more)
+- **Duration:** Approximately 6 months (self-paced)
+- **Type:** Professional Certificate
+- **Skills Covered:** Data Science, Python, SQL, Data Science methodology,Data Analysis, Data visualization, Data Mining, Machine Learning, Big Data Concepts,  and more.
+
 
 
 ## Learning Objectives 
@@ -125,6 +142,8 @@ The case studies were particularly valuable as they were based on real-world dat
 | **Data Scientist Career Guide and Interview Prep** | 9 hours  | 4.7    | Build a foundation for job search, write resumes, create a portfolio, understand the interview process, and prepare for interviews.                                                                               | Data Science, Data Analysis, CRISP-DM, Methodology, Data Mining                                                     | [Link to course](https://www.coursera.org/learn/data-scientist-career-guide)                                        |
 
 
+
+**Note:** After completing each course, learners receive a certificate of completion.
 ## Tools & Libraries  (🛠️ & 📚)
 
 🛠️ |
