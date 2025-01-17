@@ -152,5 +152,4 @@ if __name__ == '__main__':
         #Observe the port number shown in the terminal.
         # Click on the Launch Application option from the side menu bar. Provide the port number(8050) and click OK
 
-# Project Complete By SHUBHAM
-#Profile Link - https://www.linkedin.com/in/shubhamtomer/
+
